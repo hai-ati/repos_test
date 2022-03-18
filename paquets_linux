@@ -1,3 +1,4 @@
+installation local: dkpg-rpm
 http
 apache2
 haproxy
